@@ -7,7 +7,6 @@ This project is a **Retrieval-Augmented Generation (RAG)** pipeline designed to 
 - **Qdrant** (vector database) to store and search embeddings
 - **Flan-T5** (local) to generate natural language answers
 
-> 💬 **Note**: I’ve worked with Qdrant before, so I chose it for the vector storage and retrieval component.
 
 ---
 
